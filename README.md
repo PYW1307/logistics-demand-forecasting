@@ -1,2 +1,4 @@
 # logistics-demand-forecasting
-Data source
+------------Data source------------
+The logistics energy consumption intensity and logistics carbon dioxide emission intensity can be calculated based on the logistics industry energy consumption data from the "China Energy Statistical Yearbook".
+The indicators such as freight turnover rate, postal and communication service volume, logistics fixed investment, logistics workforce, road mileage, regional gross domestic product (GDP), total retail sales of consumer goods, total import and export volume, per capita disposable income of urban residents, per capita consumer expenditure of urban residents, proportion of the primary industry, proportion of the secondary industry, and proportion of the tertiary industry are sourced from the "China Statistical Yearbook", "Sichuan Statistical Yearbook", and "Chongqing Statistical Yearbook".
